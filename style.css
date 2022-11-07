@@ -1,0 +1,42 @@
+#prideImage {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+#interesting-fact {
+    font-style: italic;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.labels {
+    font-weight: bold;
+}
+
+#bull {
+    list-style-type: none;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+#post-one {
+    background-color: burlywood;
+    border: 1px green solid;
+    padding: 20px;
+    width: 300px;
+}
+
+#post-two {
+    border: 1px green solid;
+    
+}
+
+#description {
+
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
